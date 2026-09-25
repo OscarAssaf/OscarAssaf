@@ -4,7 +4,7 @@
 
 Computer Engineering graduate specializing in Software Engineering and mobile applications who has a strong interest in software development, embedded systems, AI, automation and mobile development. I enjoy learning new technologies and turning ideas into working solutions that benefit people with their everyday life.
 
-# 💻 Programming Languages + Tools and Frameworks 
+# 💻 Programming Languages, Tools and Frameworks I have worked with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
